@@ -12,7 +12,6 @@ mylist.sort()
 
 amplitude = max(mylist) - min(mylist)
 
-inputz = 5
 interval = round(amplitude / abs(int(raw_input("digite a quantidade de classes: "))))
 # print(interval)
 
